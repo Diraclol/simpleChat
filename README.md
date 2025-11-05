@@ -1,9 +1,10 @@
-#SEG 2105 - Assignment 2 Submission
-###Daniel Nguyen
-###ST# 300420133
+# SEG 2105 A00 - Assignment 2 Submission
 
-Submission code works with *Eclipse IDE 2025-09* for testing and function.
-Test Cases are also included with submission.
+### Daniel Nguyen  
+### Student Number: 300420133
+
+Submission code works with *Eclipse IDE 2025-09* for testing and functionality.  
+Test cases are also included with the submission.
 
 ## Test Cases
 | Test Case | Description | Instructions | Expected Result | Cleanup | Status |
