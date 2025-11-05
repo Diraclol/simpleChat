@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SEG 2105 A00 - Assignment 2 Submission
 
 ### Daniel Nguyen  
@@ -5,6 +6,14 @@
 
 Submission code works with *Eclipse IDE 2025-09* for testing and functionality.  
 Test cases are also included with the submission.
+=======
+#SEG 2105 - Assignment 2 Submission
+###Daniel Nguyen
+###ST# 300420133
+
+Submission code works with *Eclipse IDE 2025-09* for testing and function.
+Test Cases are also included with submission.
+>>>>>>> ab7caf9 (Adding coded files to the repo with everything implemented with TestCases/README files)
 
 ## Test Cases
 | Test Case | Description | Instructions | Expected Result | Cleanup | Status |
