@@ -1,8 +1,9 @@
-#SEG 2105 - Assignment 2 Submission<br>
-###Daniel Nguyen<br>
-###ST# 300420133<br>
-Submission code works with *Eclipse IDE 2025-09* for testing and function<br>
-Test Cases are also included with submission<br>
+#SEG 2105 - Assignment 2 Submission
+###Daniel Nguyen
+###ST# 300420133
+
+Submission code works with *Eclipse IDE 2025-09* for testing and function.
+Test Cases are also included with submission.
 
 ## Test Cases
 | Test Case | Description | Instructions | Expected Result | Cleanup | Status |
